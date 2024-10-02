@@ -1,3 +1,3 @@
 fun main(){
-    println("ola a todo el mundo")
+    println("hoy es mircoles y llueve")
 }
