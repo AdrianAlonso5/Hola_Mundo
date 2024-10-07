@@ -1,3 +1,3 @@
 fun main(){
-    println("hoy es mircoles y llueve")
+    println("hola buenas tardes hoy es lunes")
 }
