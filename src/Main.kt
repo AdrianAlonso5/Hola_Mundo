@@ -1,3 +1,3 @@
 fun main(){
-    println("hola buenas tardes hoy es lunes 14")
+    println("hola buenos dias hoy es lunes 14")
 }
